@@ -1,10 +1,10 @@
 # CyberSecurity RSS
 
-这个项目记录了个人订阅的一些Hackers的博客地址,一些安全团队的博客，一些国外著名的安全新闻平台。
+这个项目记录了个人订阅的一些Hackers的博客地址，一些安全团队的博客，一些国外著名的安全新闻平台。
 
-希望大家多多推荐,支持RSS是一种美德.
+希望大家多多推荐,支持RSS是一种美德。
 
-主要参考了余弦大大的[RSS订阅列表](http://evilcos.me/evilcos_rss_2014.opml)，以及[国外网络安全博客Top50](http://blog.feedspot.com/cyber_security_blogs/).对余弦大大的RSS列表中一些已经停止维护的博客进行了删减.
+主要参考了余弦大大的[RSS订阅列表](http://evilcos.me/evilcos_rss_2014.opml)，以及[国外网络安全博客Top50](http://blog.feedspot.com/cyber_security_blogs/)。对余弦大大的RSS列表中一些已经停止维护的博客进行了删减。
 
 ![RSS](http://ww2.sinaimg.cn/large/006y8lVajw1faj6ao8g6rj31kw10ogy2.jpg)
 
