@@ -19,24 +19,18 @@
             <outline title="EVILCOS" xmlUrl="http://evilcos.me/?feed=rss2" type="rss" text="EVILCOS"/>
             <outline title="DBA Notes" xmlUrl="http://feeds.feedburner.com/webarch" type="rss" text="DBA Notes"/>
             <outline title="SecureThoughts.com" xmlUrl="http://feeds2.feedburner.com/securethoughts" type="rss" text="SecureThoughts.com"/>
-            <outline title="Inking" xmlUrl="http://hi.baidu.com/inking26/rss" type="rss" text="Inking"/>
-            <outline title="RAyh4c的黑盒子" xmlUrl="http://hi.baidu.com/rayh4c/rss" type="rss" text="RAyh4c的黑盒子"/>
-            <outline title="Gray Hat" xmlUrl="http://hi.baidu.com/webhacking/rss" type="rss" text="Gray Hat"/>
             <outline title="Kos Security" xmlUrl="http://kyleosborn.org/feed/" type="rss" text="Kos Security"/>
             <outline title="Sword Soul" xmlUrl="http://le4f.net/feed" type="rss" text="Sword Soul"/>
             <outline title="Manicode" xmlUrl="http://manicode.blogspot.com/feeds/posts/default" type="rss" text="Manicode"/>
-            <outline title="mickey's blog" xmlUrl="http://pentest.cc/?feed=rss2" type="rss" text="mickey's blog"/>
             <outline title="radi::blog" xmlUrl="http://radi.r-n-d.org/feeds/posts/default" type="rss" text="radi::blog"/>
-            <outline title="riusksk's blog" xmlUrl="http://riusksk.blogbus.com/index.rdf" type="rss" text="riusksk's blog"/>
+            <outline title="riusksk's blog" xmlUrl="http://riusksk.me/atom.xml" type="rss" text="riusksk's blog"/>
             <outline title="Chu's BLoG" xmlUrl="http://sh3ll.me/atom.xml" type="rss" text="Chu's BLoG"/>
             <outline title="Chris Shiflett" xmlUrl="http://shiflett.org/feeds/blog/" type="rss" text="Chris Shiflett"/>
             <outline title="sirdarckcat" xmlUrl="http://sirdarckcat.blogspot.com/feeds/posts/default" type="rss" text="sirdarckcat"/>
             <outline title="Soroush" xmlUrl="http://soroush.secproject.com/blog/feed/" type="rss" text="Soroush"/>
             <outline title="Tactical WAS" xmlUrl="http://tacticalwebappsec.blogspot.com/feeds/posts/default" type="rss" text="Tactical WAS"/>
             <outline title="thomascannon.net Blog" xmlUrl="http://thomascannon.net/blog/rss.xml" type="rss" text="thomascannon.net Blog"/>
-            <outline title="r0eXper Team" xmlUrl="http://www.0xss.cn/feed.php" type="rss" text="r0eXper Team"/>
             <outline title="oldjun’s blog" xmlUrl="http://www.oldjun.com/blog/index.php/rss/" type="rss" text="oldjun’s blog"/>
-            <outline title="PHP博客-GaRY's Blog" xmlUrl="http://www.phpweblog.net/GaRY/rss.aspx" type="rss" text="PHP博客-GaRY's Blog"/>
             <outline title="The Spanner" xmlUrl="http://www.thespanner.co.uk/feed/" type="rss" text="The Spanner"/>
             <outline title="tralfamadore.com" xmlUrl="http://www.tralfamadore.com/atom.xml" type="rss" text="tralfamadore.com"/>
             <outline title="virusest's blog" xmlUrl="http://www.virusest.com/rss.xml" type="rss" text="virusest's blog"/>
@@ -54,17 +48,8 @@
             <outline title="Scotch" xmlUrl="https://scotch.io/feed" type="rss" text="Scotch"/>
             <outline title="Speckyboy Design Magazine - Web Design News, Resources &amp; Inspiration" xmlUrl="https://speckyboy.com/feed" type="rss" text="Speckyboy Design Magazine - Web Design News, Resources &amp; Inspiration"/>
             <outline title="Web Development news, articles, and tools" xmlUrl="https://www.reddit.com/r/Web_Development/.rss" type="rss" text="Web Development news, articles, and tools"/>
-        </outline>
-        <outline text="Web视角" title="Web视角">
             <outline title="WHATWG" xmlUrl="http://blog.whatwg.org/feed/" type="rss" text="WHATWG"/>
-            <outline title="网站分析在中国" xmlUrl="http://feed.feedsky.com/chinawebanalytics" type="rss" text="网站分析在中国"/>
-            <outline title="WebAppers" xmlUrl="http://feeds2.feedburner.com/Webappers" type="rss" text="WebAppers"/>
-            <outline title="阿里巴巴（中文站）用户体验设计部博客" xmlUrl="http://www.aliued.cn/feed/" type="rss" text="阿里巴巴（中文站）用户体验设计部博客"/>
-        </outline>
-        <outline text="架构" title="架构">
             <outline title="酷壳 - CoolShell.cn" xmlUrl="http://coolshell.cn/feed/" type="rss" text="酷壳 - CoolShell.cn"/>
-            <outline title="NoSQLfan" xmlUrl="http://feed.feedsky.com/nosqlfan" type="rss" text="NoSQLfan"/>
-            <outline title="Ricky Ho" xmlUrl="http://horicky.blogspot.com/feeds/posts/default" type="rss" text="Ricky Ho"/>
             <outline title="Startup News" xmlUrl="http://news.dbanotes.net/rss" type="rss" text="Startup News"/>
         </outline>
         <outline text="英文博客" title="英文博客">
@@ -74,7 +59,6 @@
             <outline title="Speaking of Security - The RSA Blog and Podcast" xmlUrl="http://blogs.rsa.com/feed/" type="rss" text="Speaking of Security - The RSA Blog and Podcast"/>
             <outline title="Lockheed Martin Cybersecurity Blog" xmlUrl="http://cyber.lockheedmartin.com/blog/rss.xml" type="rss" text="Lockheed Martin Cybersecurity Blog"/>
             <outline title="Cyber Security Buzz" xmlUrl="http://cybersec.buzz/feed" type="rss" text="Cyber Security Buzz"/>
-            <outline title="Google Online Security Blog" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog" type="rss" text="Google Online Security Blog"/>
             <outline title="WeLiveSecurity" xmlUrl="http://feeds.feedburner.com/eset/blog" type="rss" text="WeLiveSecurity"/>
             <outline title="Lohrmann on Cybersecurity | Government Technology" xmlUrl="http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure" type="rss" text="Lohrmann on Cybersecurity | Government Technology"/>
             <outline title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed" type="rss" text="Krebs on Security"/>
