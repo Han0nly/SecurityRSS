@@ -456,13 +456,13 @@
 ## OPML
 
 最终整理的OPML链接为:   
-[https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/RSS.opml](https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/RSS.opml)
+[https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/SecureRss.opml](https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/SecureRss.opml)
 
 ## 使用方法1(推荐) - inoreader
 
 在设置的OPML订阅源中填入本repo的OPML RAW文件地址:  
 ```
-https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/RSS.opml
+https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/SecureRss.opml
 ```   
 
 
@@ -470,7 +470,7 @@ https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/RSS.opml
 
 ## 使用方法2 - Feedly
 
-下载[OPML LINK](https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/RSS.opml)后保存为`OPML.xml`，在Feedly源管理页面导入。
+下载[OPML LINK](https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/SecureRss.opml)后保存为`OPML.xml`，在Feedly源管理页面导入。
 
 > 由于本repo可能会频繁更新订阅源（或者修订RSS输出的样式），如果需要更新的话，请重新下载后再导入Feedly。
 
