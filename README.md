@@ -6,6 +6,9 @@
 
 包括但不局限于余弦大大的[RSS订阅列表](http://evilcos.me/evilcos_rss_2014.opml)，以及[国外网络安全博客Top50](http://blog.feedspot.com/cyber_security_blogs/)。对余弦大大的RSS列表中一些已经停止维护的博客进行了删减。
 
+### UPDATE:
+
+更新了Privacy分组，主要内容是从Feedly提取到部分关注Privacy的媒体和博主，技术性可能不会很强，大家酌情添加。
 
 ![RSS](http://ww2.sinaimg.cn/large/006y8lVajw1faj6ao8g6rj31kw10ogy2.jpg)
 
