@@ -208,82 +208,76 @@
 
    Rss地址 : https://www.leavesongs.com/rss.php
 
-4. virusest's blog
-
-   网站 : [virusest's blog](http://www.virusest.com/)    
-
-   Rss地址 : http://www.virusest.com/rss.xml
-
-5. 独自等待-信息安全博客  
+4. 独自等待-信息安全博客  
 
    网站 : [独自等待-信息安全博客](https://www.waitalone.cn/)  
 
    Rss地址 : https://www.waitalone.cn/feed#from:www.waitalone.cn
 
-6. tralfamadore.com
+5. tralfamadore.com
 
    网站 : [tralfamadore.com](http://www.tralfamadore.com/)   
 
    Rss地址 : http://www.tralfamadore.com/atom.xml
 
-7. Didier Stevens
+6. Didier Stevens
 
    网站 : [Didier Stevens](https://blog.didierstevens.com/)   
 
    Rss地址 : http://blog.didierstevens.com/feed
 
-8. GUYA.NET
+7. GUYA.NET
 
    网站 : [GUYA.NET](https://blog.guya.net/)   
 
    Rss地址 : http://blog.guya.net/feed
 
-9. koto -XSSChEF
+8. koto -XSSChEF
 
    网站 : [koto -XSSChEF](http://blog.kotowicz.net/)   
 
    Rss地址 : http://blog.kotowicz.net/feeds/posts/default
 
-10. Street Hacker(已停止更新)
+9. Street Hacker(已停止更新)
 
    网站 : [Street Hacker](http://blog.sina.com.cn/streethacker)   
 
    Rss地址 : http://blog.sina.com.cn/rss/streethacker.xml
 
-11. DBA Notes
+10. DBA Notes
 
    网站 : [DBA Notes](http://dbanotes.net/)   
 
    Rss地址 : http://feeds.feedburner.com/webarch
 
-12. SecureThoughts.com
+11. SecureThoughts.com
 
    网站 : [SecureThoughts.com](https://securethoughts.com/)   
 
    Rss地址 : http://feeds2.feedburner.com/securethoughts
 
-13. Sword Soul
+12. Sword Soul
 
    网站 : [Sword Soul](http://le4f.net/)   
 
    Rss地址 : http://le4f.net/feed
 
 
-14. radi::blog
+13. radi::blog
 
    网站 : [radi::blog](http://radi.r-n-d.org/)   
 
    Rss地址 : http://radi.r-n-d.org/feeds/posts/default
 
 
-15. Manicode(已停止维护)
+14. Manicode(已停止维护)
 
    网站 : [Manicode](http://manicode.blogspot.jp/)   
 
    Rss地址 : http://manicode.blogspot.com/feeds/posts/default
 
 
-16. riusksk's blog(泉哥的技术博客)
+15. riusksk's blog(泉哥的技术博客)
 
    网站 : [riusksk's blog](http://riusksk.me/)  
 
@@ -292,138 +286,126 @@
    Rss地址 : http://riusksk.me/atom.xml
 
 
-17. Chu's BLoG
+16. Chu's BLoG
 
    网站 : [Chu's BLoG](http://sh3ll.me/)   
 
    Rss地址 : http://sh3ll.me/atom.xml
 
-18. Chris Shiflett
+17. Chris Shiflett
 
    网站 : [Chris Shiflett](http://shiflett.org/)   
 
    Rss地址 : http://shiflett.org/feeds/blog/
 
-19. sirdarckcat
+18. sirdarckcat
 
    网站 : [sirdarckcat](http://sirdarckcat.blogspot.jp/)   
    Rss地址 : http://sirdarckcat.blogspot.com/feeds/posts/default
 
-20. Soroush
+19. Soroush
 
    网站 : [Soroush](https://soroush.secproject.com/blog/)  
 
    Rss地址 : http://soroush.secproject.com/blog/feed/
 
-21. Tactical WAS(已停止维护)
-
-   网站 : [Tactical WAS](http://tacticalwebappsec.blogspot.com/)  
-
-   Rss地址 : http://tacticalwebappsec.blogspot.com/feeds/posts/default
-
-22. thomascannon.net Blog  
+20. thomascannon.net Blog  
 
    网站 :   [thomascannon.net Blog](http://thomascannon.net/blog/)  
 
    Rss地址 : http://thomascannon.net/blog/rss.xml
 
-23. oldjun(t00ls核心成员，好久没更新了)
+21. oldjun(t00ls核心成员，好久没更新了)
 
    网站 : [oldjun](http://www.oldjun.com/blog/index.php)    
 
    Rss地址 : http://www.oldjun.com/blog/index.php/rss/
 
-24. The Spanner
+22. The Spanner
 
    网站 : [The Spanner](http://www.thespanner.co.uk/)  
 
    Rss地址 : http://www.thespanner.co.uk/feed/
 
-25. tralfamadore.com(已停止维护)
-
-   网站 : [tralfamadore.com](http://www.tralfamadore.com/)  
-
-   Rss地址 : http://www.tralfamadore.com/atom.xml
-
-26. 道哥的黑板报(知乎专栏)
+23. 道哥的黑板报(知乎专栏)
    
    网站 : [道哥的黑板报](https://zhuanlan.zhihu.com/taosay/about)  
 
    Rss地址 : https://rss.lilydjwg.me/zhihuzhuanlan/taosay
 
-27. 空虚浪子心的灵魂(主攻WEB安全)
+24. 空虚浪子心的灵魂(主攻WEB安全)
 
    网站 : [空虚浪子心的灵魂](http://www.inbreak.net/)  
 
    Rss地址 : http://www.inbreak.net/feed
 
-28. 阿里中间件团队博客
+25. 阿里中间件团队博客
 
    网站 : [阿里中间件团队博客](http://jm.taobao.org/)  
 
    Rss地址 : http://jm.taobao.org/atom.xml
 
-29. 晓风听雨轩
+26. 晓风听雨轩
 
    网站 : [晓风听雨轩](http://suddymail.org/)  
 
    Rss地址 : http://suddymail.org/rss.php
 
-30. 醉卧烟雨
+27. 醉卧烟雨
    
    网站 : [醉卧烟雨](http://blog.cctv.com.im/b)  
 
    Rss地址 : http://blog.cctv.com.im/feed
 
-31. Lcy
+28. Lcy
 
    网站 : [Lcy](https://phpinfo.me/)  
 
    Rss地址 : https://phpinfo.me/feed
 
-32. 安全渗透军火库
+29. 安全渗透军火库
 
    网站 : [安全渗透军火库](http://shentou.org/)  
 
    Rss地址 : http://shentou.org/feed/
 
-33. 阿德马Web安全
+30. 阿德马Web安全
 
    网站 : [阿德马Web安全](http://www.nxadmin.com/)  
 
    Rss地址 : http://www.nxadmin.com/feed
 
-34. Leesec's Blog
+31. Leesec's Blog
    
    网站 : [Leesec's Blog](http://www.leesec.com/)
 
    Rss地址 : http://www.leesec.com/feed
 
-35. 焠安
+32. 焠安
 
    网站 : [焠安](http://www.sadk.org/)
 
    Rss地址 : http://www.sadk.org/feed/
 
-36. JoyChou's Blog
+33. JoyChou's Blog
 
    网站 : [JoyChou's Blog](http://www.joychou.org/index.php/feed/)
 
    Rss地址 : http://www.joychou.org/index.php/feed/
 
-37. PHP和Java的故事
+34. PHP和Java的故事
 
    网站 : [PHP和Java的故事](http://javaweb.org/)
 
    Rss地址 : http://javaweb.org/?feed=rss2
 
-38. 番茄师傅
+35. 番茄师傅
 
    网站 :   [番茄师傅](http://www.tomatoyu.com/)  
 
    Rss地址 : http://www.tomatoyu.com/feed/
 
-39. Sudo's BLoG
+36. Sudo's BLoG
 
    网站 : [Sudo's BLoG](http://fuzzzz.net/)    
 
